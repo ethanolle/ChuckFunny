@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ChuckFunny/static/css/main.dc974f97.chunk.css",
+    "main.js": "/ChuckFunny/static/js/main.887ae2ee.chunk.js",
+    "main.js.map": "/ChuckFunny/static/js/main.887ae2ee.chunk.js.map",
+    "runtime-main.js": "/ChuckFunny/static/js/runtime-main.f240f038.js",
+    "runtime-main.js.map": "/ChuckFunny/static/js/runtime-main.f240f038.js.map",
+    "static/js/2.303a4f3e.chunk.js": "/ChuckFunny/static/js/2.303a4f3e.chunk.js",
+    "static/js/2.303a4f3e.chunk.js.map": "/ChuckFunny/static/js/2.303a4f3e.chunk.js.map",
+    "index.html": "/ChuckFunny/index.html",
+    "precache-manifest.5fd4292ca69f916fa80e236278165281.js": "/ChuckFunny/precache-manifest.5fd4292ca69f916fa80e236278165281.js",
+    "service-worker.js": "/ChuckFunny/service-worker.js",
+    "static/css/main.dc974f97.chunk.css.map": "/ChuckFunny/static/css/main.dc974f97.chunk.css.map",
+    "static/js/2.303a4f3e.chunk.js.LICENSE.txt": "/ChuckFunny/static/js/2.303a4f3e.chunk.js.LICENSE.txt",
+    "static/media/gettyimages-83457444-612x612.jpg": "/ChuckFunny/static/media/gettyimages-83457444-612x612.592c1c35.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f240f038.js",
+    "static/js/2.303a4f3e.chunk.js",
+    "static/css/main.dc974f97.chunk.css",
+    "static/js/main.887ae2ee.chunk.js"
+  ]
+}
